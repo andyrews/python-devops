@@ -18,6 +18,8 @@ Build Python Project Scaffold:
 * command-line-tool
 * microservices
 
+1. Create Virtual Environment (venv): python -m venv venv
+
 ### AWS CloudShell
 ### AWS Cloud9
 
