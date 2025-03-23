@@ -19,7 +19,17 @@ Build Python Project Scaffold:
 * microservices
 
 1. Create Virtual Environment (venv): python -m venv venv
-
+2. Enter to console terminal:
+On Windows:
+```sh
+venv/Scripts/activate
+```
+On MacOS/Linux:
+```sh
+source venv/bin/activate
+```
+3. Clone Project then `make all`
+   
 ### AWS CloudShell
 ### AWS Cloud9
 
