@@ -12,4 +12,7 @@ test:
 format:
 	black *.py devopslib/*.py
 
-all: install req_update lint test format
+deploy:
+	echo "deploy in here"
+
+all: install req_update lint test format deploy
