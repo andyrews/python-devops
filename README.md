@@ -34,7 +34,7 @@ source venv/bin/activate
 ### AWS Cloud9
 
 ## Command-Line Tools and Step Functions
-![Screenshot 2025-03-24 133046.png](media/Screenshot 2025-03-24 133046.png)
+[Screenshot 2025-03-24 133046.png](media/Screenshot 2025-03-24 133046.png)
 
 ## Microservices
 
